@@ -15,6 +15,7 @@ This workflow demonstrates how raw customer transaction data can be transformed 
 
 🛠️ Tech Stack
 Python
+
 Pandas
 NumPy
 MySQL
