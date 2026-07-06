@@ -36,12 +36,15 @@ Excel (Dataset)
 📂 Project Workflow
 
 Raw Dataset (Excel/CSV)
+
             │
             
 Data Cleaning & Preprocessing (Python)
+
             │
             
 Clean Dataset
+
             │
             
 Import into MySQL Database
