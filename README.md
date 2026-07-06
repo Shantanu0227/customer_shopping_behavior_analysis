@@ -93,8 +93,3 @@ After cleaning, the dataset was imported into MySQL for querying and business an
 
 
 
--Interactive Filters
-   Gender
-   Category
-   Subscription Status
-   Shipping Type
