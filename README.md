@@ -7,19 +7,27 @@ The objective of this project is to analyze customer purchasing behavior and pro
 
 The project follows a complete ETL and analytics pipeline:
 
+
 -Data Cleaning & Preprocessing using Python
+
 -Data Storage & SQL Analysis using MySQL
+
 -Interactive Dashboard Development using Power BI
 
 This workflow demonstrates how raw customer transaction data can be transformed into actionable insights for business decision-making.
 
 🛠️ Tech Stack
+
 Python
 
 Pandas
+
 NumPy
+
 MySQL
+
 Power BI
+
 Excel (Dataset)
 
 📂 Project Workflow
@@ -50,11 +58,17 @@ Interactive Dashboard
 The dataset was cleaned and prepared using Python before loading it into MySQL.
 
 -Cleaning Tasks
+
   Removed duplicate records
+  
   Checked for missing values
+  
   Corrected data types
+  
   Standardized column names
+  
   Handled inconsistent values
+  
   Exported cleaned dataset for SQL analysis
 
 
@@ -63,15 +77,25 @@ The dataset was cleaned and prepared using Python before loading it into MySQL.
 After cleaning, the dataset was imported into MySQL for querying and business analysis.
 
 -Sample Business Questions
+
   Total number of customers
+  
   Average purchase amount
+  
   Revenue by product category
+  
   Customer distribution by subscription status
+  
   Purchase frequency analysis
+  
   Average review rating
+  
   Sales by age group
+  
   Previous purchase analysis
+  
   Shipping type preferences
+  
   Payment method analysis
 
 
