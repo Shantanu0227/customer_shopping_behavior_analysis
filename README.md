@@ -35,27 +35,12 @@ Excel (Dataset)
 
 📂 Project Workflow
 
-Raw Dataset (Excel/CSV)
-
-            │
-            
-Data Cleaning & Preprocessing (Python)
-
-            │
-            
-Clean Dataset
-
-            │
-            
-Import into MySQL Database
-            │
-            
-SQL Queries & Business Analysis
-            │
-            
-Connect MySQL with Power BI
-            │
-            
+Raw Dataset (Excel/CSV)│
+Data Cleaning & Preprocessing (Python)│
+Clean Dataset│
+Import into MySQL Database│
+SQL Queries & Business Analysis│
+Connect MySQL with Power BI│
 Interactive Dashboard
 
 
