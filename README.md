@@ -3,11 +3,8 @@ Built an end-to-end customer purchasing behavior analytics project using Python,
 
 
 ## Project Overview
-
 The objective of this project is to analyze customer purchasing behavior and provide meaningful business insights through data visualization.
 The project follows a complete ETL and analytics pipeline:
-
-
 -Data Cleaning & Preprocessing using Python
 -Data Storage & SQL Analysis using MySQL
 -Interactive Dashboard Development using Power BI
@@ -57,10 +54,8 @@ After cleaning, the dataset was imported into MySQL for querying and business an
 - Average review rating
 - Sales by age group
 - Previous purchase analysis
-  
-  Shipping type preferences
-  
-  Payment method analysis
+- Shipping type preferences
+- Payment method analysis
 
 
 
